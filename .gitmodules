@@ -1,0 +1,3 @@
+[submodule "maven-orasi/Selenium-Java-Core"]
+	path = maven-orasi/Selenium-Java-Core
+	url = https://github.com/Orasi/Selenium-Java-Core.git
